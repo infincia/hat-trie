@@ -24,6 +24,8 @@
 #ifndef TSL_HTRIE_HASH_H
 #define TSL_HTRIE_HASH_H
 
+#undef max
+
 #include <algorithm>
 #include <array>
 #include <cmath>
