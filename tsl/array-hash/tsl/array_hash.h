@@ -40,6 +40,7 @@
 #include <vector>
 #include "array_growth_policy.h"
 
+#undef min
 
 #ifdef __has_include
     /*
